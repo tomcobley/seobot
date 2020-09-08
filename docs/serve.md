@@ -15,4 +15,4 @@ Start Apache:
 Create symlink from Sites directory to location of code:
 `ln -s ~/code/github/seobot /Users/<USERNAME>/Sites/seobot`
 
-Visit http://localhost:80/seobot[http://localhost:80/seobot]
+Visit [http://localhost:80/seobot](http://localhost:80/seobot)
