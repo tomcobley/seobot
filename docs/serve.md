@@ -1,4 +1,4 @@
-##For MacOS
+## For MacOS
 
 Create Sites directory in home folder (if doesn't already exist):
 `mkdir ~/Sites`
