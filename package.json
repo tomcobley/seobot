@@ -1,0 +1,36 @@
+{
+  "name": "seobot",
+  "version": "1.0.0",
+  "description": "A simple interface for generating SEO friendly page titles, keywords and descriptions.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomcobley/seobot.git"
+  },
+  "keywords": [
+    "SEO",
+    "seobot",
+    "search",
+    "engine",
+    "optimisation",
+    "keywords",
+    "meta",
+    "description",
+    "generator"
+  ],
+  "author": "Tom Cobley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tomcobley/seobot/issues"
+  },
+  "homepage": "https://github.com/tomcobley/seobot#readme",
+  "dependencies": {
+    "clipboard": "^2.0.6"
+  }
+}
