@@ -7,7 +7,9 @@
     "doc": "docs"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "scss": "node-sass --watch frontend/public/styles/scss -o frontend/public/styles/css"
   },
   "repository": {
     "type": "git",
