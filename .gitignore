@@ -1,1 +1,3 @@
 node_modules/
+
+.bigcommerce-graphql-api-key.txt
