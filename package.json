@@ -2,7 +2,7 @@
   "name": "seobot",
   "version": "1.0.0",
   "description": "A simple interface for generating SEO friendly page titles, keywords and descriptions.",
-  "main": "index.js",
+  "main": "server.js",
   "directories": {
     "doc": "docs"
   },
