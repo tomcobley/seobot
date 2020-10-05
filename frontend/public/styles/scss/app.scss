@@ -1,0 +1,15 @@
+body {
+    padding: 21px;
+
+    .form-group {
+        width: 100%;
+    }
+
+    button[data-clipboard-target] {
+        img {
+            width: 20px;
+        }
+    }
+
+
+}
