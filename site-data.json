@@ -1,0 +1,33 @@
+{
+    "data": {
+
+        "site": {
+            "name": "Golden Age of Tennis",
+            "url": "https://goldenageoftennis.com"
+        },
+
+        "keywords": [
+            "retro",
+            "tennis",
+            "clothing",
+            "vintage",
+            "sportswear",
+            "80s",
+            "casual",
+            "casuals",
+            "attire",
+            "classics"
+        ],
+
+        "associations": [
+            { "bjorn":      ["björn"] },
+            { "borg":       ["fila"] },
+            { "mcenroe":    ["sergio", "tacchini"] },
+        ],
+
+        "description": {
+            "call-to-action": "Shop now."
+        }
+
+    }
+}
